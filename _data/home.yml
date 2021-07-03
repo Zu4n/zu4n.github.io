@@ -3,10 +3,10 @@ navbar_entries:
     url: about
 
   - title: blog
-    url: blog
+    url: https://blog.naver.com/juanmon
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: instagram
+    url: https://www.instagram.com/2zuan/
 
 project_entries:
   - title: Project 1
